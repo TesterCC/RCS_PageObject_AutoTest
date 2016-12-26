@@ -1,0 +1,6 @@
+//  capabilities.setCapability("udid", "95b3969a087698f2"); //Mipad
+//  capabilities.setCapability("udid", "1d069907"); //note3 singapore
+//  capabilities.setCapability("udid", "84b8c68c"); //black note4 
+//  capabilities.setCapability("udid", "HC44WWM01499");  //HTC one M8
+//  capabilities.setCapability("udid", "192.168.2.64:5555"); 
+//  capabilities.setCapability("udid", "93e2da8b"); //white note4 

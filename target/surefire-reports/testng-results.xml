@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32732" started-at="2016-05-20T03:58:54Z" finished-at="2016-05-20T03:59:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32732" started-at="2016-05-20T03:58:54Z" finished-at="2016-05-20T03:59:26Z">
+      <class name="com.rcstest.testcase.TestAllTestcases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.rcstest.testcase.TestAllTestcases@3b794c60]" name="beforeMethod" is-config="true" duration-ms="15260" started-at="2016-05-20T11:58:54Z" finished-at="2016-05-20T11:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testChatsActivity()[pri:2, instance:com.rcstest.testcase.TestAllTestcases@3b794c60]" name="testChatsActivity" duration-ms="14150" started-at="2016-05-20T11:59:09Z" finished-at="2016-05-20T11:59:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChatsActivity -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.rcstest.testcase.TestAllTestcases@3b794c60]" name="afterMethod" is-config="true" duration-ms="3305" started-at="2016-05-20T11:59:23Z" finished-at="2016-05-20T11:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.rcstest.testcase.TestAllTestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

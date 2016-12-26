@@ -1,0 +1,9 @@
+2016-06-15 18:57:32 [ ERROR ]  #com.rcstest.driver.InitialDriver.elementisExistId(InitialDriver.java:235)# ===>>> Element is not find.An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'PavilionLYX-PC', ip: '169.254.64.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=id, value=com.starhub.rcsstarhubstagingid/_button}
+Session ID: 4fa8a99e-51cc-4039-a283-6d9ffad70571
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, appActivity=.login.LoginSlapshActivity, browserName=Android, networkConnectionEnabled=true, udid=93e2da8b, desired={platformVersion=5.0.1, platformName=Android, deviceName=Test Device, appActivity=.login.LoginSlapshActivity, udid=93e2da8b, appPackage=com.starhub.rcsstarhubstaging}, locationContextEnabled=false, appPackage=com.starhub.rcsstarhubstaging, platformVersion=5.0.1, databaseEnabled=false, deviceName=93e2da8b, platformName=Android, webStorageEnabled=false, warnings={}, takesScreenshot=true}]

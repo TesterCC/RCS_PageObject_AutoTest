@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test"  preserve-order="true">
+        <classes>
+            <!--<class name="com.rcstest.testcase.activitytestcase.TestChatsActivity"/>-->
+            <class name="com.rcstest.testcase.runalltestcase.TestAllTestcases"/>
+            <!--<methods>-->
+                <!-- <include name="testChatsActivity" /> -->
+                <!--<include name="testChatsActivity" />-->
+                <!--<include name="testMoreActivity" />-->
+            <!--</methods>-->
+        </classes>
+    </test> <!-- Test RCS Android client-->
+
+    <!--config 1-->
+    <!--<test name="Test"  preserve-order="true">-->
+        <!--<classes>-->
+            <!--<class name="com.rcstest.testcase.TestChatsActivity"/>-->
+        <!--</classes>-->
+    <!--</test> -->
+
+    <!--config 2-->
+    <!--<test name="Test"  preserve-order="true">-->
+    <!--<classes>-->
+    <!--<class name="com.rcstest.testcase.TestChatsActivity"/>-->
+    <!--<methods>-->
+        <!--<include name="testChatsActivity" />-->
+        <!--<include name="testMoreActivity" />-->
+    <!--</methods>-->
+    <!--</classes>-->
+    <!--</test> -->
+
+
+
+    <!-- ReportNG settings-->
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+    <usedefaultlisteners name="false" />
+</suite> <!-- Suite -->

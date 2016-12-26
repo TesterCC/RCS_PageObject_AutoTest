@@ -1,0 +1,109 @@
+2016-06-15 14:10:30 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 14:10:52 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 14:10:53 [ INFO ]  #com.rcstest.page.ChatsActivity.clickSearch(ChatsActivity.java:64)# ===>>> Click search button.
+2016-06-15 14:11:00 [ INFO ]  #com.rcstest.page.BaseActivity.clickCallsMainbtn(BaseActivity.java:130)# ===>>> Click Calls Button.
+2016-06-15 14:11:00 [ INFO ]  #com.rcstest.utils.FileUtil.createDir(FileUtil.java:66)# ===>>> Create directory D:\20160615_screenshot success.
+2016-06-15 14:11:01 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:11:05 [ INFO ]  #com.rcstest.page.BaseActivity.clickContactsMainbtn(BaseActivity.java:136)# ===>>> Click Contacts Button.
+2016-06-15 14:11:06 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:11:10 [ INFO ]  #com.rcstest.page.BaseActivity.clickMoreMainbtn(BaseActivity.java:142)# ===>>> Click More Button.
+2016-06-15 14:11:11 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:11:12 [ INFO ]  #com.rcstest.page.BaseActivity.clickChatsMainbtn(BaseActivity.java:125)# ===>>> Click Chats Button.
+2016-06-15 14:11:14 [ INFO ]  #com.rcstest.page.BaseActivity.clickCallsMainbtn(BaseActivity.java:130)# ===>>> Click Calls Button.
+2016-06-15 14:11:15 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:11:17 [ INFO ]  #com.rcstest.page.CallsActivity.clicktoDialer(CallsActivity.java:43)# ===>>> Click to Dialer Activity.
+2016-06-15 14:11:19 [ INFO ]  #com.rcstest.page.BaseActivity.clickBackBtn(BaseActivity.java:118)# ===>>> Click top-left back button.
+2016-06-15 14:11:21 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:11:22 [ INFO ]  #com.rcstest.page.BaseActivity.clickContactsMainbtn(BaseActivity.java:136)# ===>>> Click Contacts Button.
+2016-06-15 14:11:24 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 14:11:24 [ INFO ]  #com.rcstest.page.ContactsActivity.clickSearchBtn(ContactsActivity.java:42)# ===>>> Click search button.
+2016-06-15 14:11:27 [ INFO ]  #com.rcstest.page.BaseActivity.clickBackBtn(BaseActivity.java:118)# ===>>> Click top-left back button.
+2016-06-15 14:11:29 [ INFO ]  #com.rcstest.page.BaseActivity.clickMoreMainbtn(BaseActivity.java:142)# ===>>> Click More Button.
+2016-06-15 14:11:30 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:11:32 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 14:11:32 [ INFO ]  #com.rcstest.page.MoreActivity.clicktoLogout(MoreActivity.java:115)# ===>>> Click Logout Item.
+2016-06-15 14:11:33 [ INFO ]  #com.rcstest.page.BaseActivity.getAlertContent(BaseActivity.java:90)# ===>>> Get the alert content is : You are about to logout. Do you wish to continue?
+2016-06-15 14:11:33 [ INFO ]  #com.rcstest.page.BaseActivity.getAlertContent(BaseActivity.java:90)# ===>>> Get the alert content is : You are about to logout. Do you wish to continue?
+2016-06-15 14:11:36 [ INFO ]  #com.rcstest.page.BaseActivity.clickNo(BaseActivity.java:102)# ===>>> Click No.
+2016-06-15 14:11:38 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 14:23:53 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 14:24:09 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 14:24:09 [ INFO ]  #com.rcstest.page.ChatsActivity.clickSearch(ChatsActivity.java:64)# ===>>> Click search button.
+2016-06-15 14:24:16 [ INFO ]  #com.rcstest.page.BaseActivity.clickCallsMainbtn(BaseActivity.java:130)# ===>>> Click Calls Button.
+2016-06-15 14:24:17 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:24:19 [ INFO ]  #com.rcstest.page.BaseActivity.clickContactsMainbtn(BaseActivity.java:136)# ===>>> Click Contacts Button.
+2016-06-15 14:24:20 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:24:21 [ INFO ]  #com.rcstest.page.BaseActivity.clickMoreMainbtn(BaseActivity.java:142)# ===>>> Click More Button.
+2016-06-15 14:24:21 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 14:24:22 [ INFO ]  #com.rcstest.page.BaseActivity.clickChatsMainbtn(BaseActivity.java:125)# ===>>> Click Chats Button.
+2016-06-15 14:24:23 [ INFO ]  #com.rcstest.page.BaseActivity.clickCallsMainbtn(BaseActivity.java:130)# ===>>> Click Calls Button.
+2016-06-15 14:24:24 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:24:26 [ INFO ]  #com.rcstest.page.CallsActivity.clicktoDialer(CallsActivity.java:43)# ===>>> Click to Dialer Activity.
+2016-06-15 14:24:28 [ INFO ]  #com.rcstest.page.BaseActivity.clickBackBtn(BaseActivity.java:118)# ===>>> Click top-left back button.
+2016-06-15 14:24:30 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:24:30 [ INFO ]  #com.rcstest.page.BaseActivity.clickContactsMainbtn(BaseActivity.java:136)# ===>>> Click Contacts Button.
+2016-06-15 14:24:32 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 14:24:32 [ INFO ]  #com.rcstest.page.ContactsActivity.clickSearchBtn(ContactsActivity.java:42)# ===>>> Click search button.
+2016-06-15 14:24:35 [ INFO ]  #com.rcstest.page.BaseActivity.clickBackBtn(BaseActivity.java:118)# ===>>> Click top-left back button.
+2016-06-15 14:24:37 [ INFO ]  #com.rcstest.page.BaseActivity.clickMoreMainbtn(BaseActivity.java:142)# ===>>> Click More Button.
+2016-06-15 14:24:38 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.MainActivity
+2016-06-15 14:24:39 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 14:24:39 [ INFO ]  #com.rcstest.page.MoreActivity.clicktoLogout(MoreActivity.java:115)# ===>>> Click Logout Item.
+2016-06-15 14:24:41 [ INFO ]  #com.rcstest.page.BaseActivity.getAlertContent(BaseActivity.java:90)# ===>>> Get the alert content is : You are about to logout. Do you wish to continue?
+2016-06-15 14:24:41 [ INFO ]  #com.rcstest.page.BaseActivity.getAlertContent(BaseActivity.java:90)# ===>>> Get the alert content is : You are about to logout. Do you wish to continue?
+2016-06-15 14:24:44 [ INFO ]  #com.rcstest.page.BaseActivity.clickNo(BaseActivity.java:102)# ===>>> Click No.
+2016-06-15 14:24:46 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 14:24:50 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:110)# ===>>> ==========Close and kill test app.==========
+2016-06-15 14:24:51 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:119)# ===>>> ==========Close to home..==========
+2016-06-15 16:45:19 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 16:45:34 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 16:45:35 [ INFO ]  #com.rcstest.page.ChatsActivity.clicktoAddConversation(ChatsActivity.java:76)# ===>>> Click to select one.
+2016-06-15 16:45:37 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 16:45:45 [ INFO ]  #com.rcstest.page.SelectContactActivity.searchContacts(SelectContactActivity.java:49)# ===>>> Search specify contact.
+2016-06-15 16:45:47 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 16:45:50 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:110)# ===>>> ==========Close and kill test app.==========
+2016-06-15 16:45:50 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:119)# ===>>> ==========Close to home..==========
+2016-06-15 16:53:05 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 16:53:19 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 16:53:20 [ INFO ]  #com.rcstest.page.ChatsActivity.clicktoAddConversation(ChatsActivity.java:76)# ===>>> Click to select one.
+2016-06-15 16:53:22 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 16:53:29 [ INFO ]  #com.rcstest.page.SelectContactActivity.searchContacts(SelectContactActivity.java:51)# ===>>> Search specify contact.
+2016-06-15 16:53:32 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 16:53:32 [ INFO ]  #com.rcstest.page.SelectContactActivity.clickSearchResult(SelectContactActivity.java:56)# ===>>> Click serach result.
+2016-06-15 16:53:35 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 16:53:35 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 16:53:38 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:110)# ===>>> ==========Close and kill test app.==========
+2016-06-15 16:53:39 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:119)# ===>>> ==========Close to home..==========
+2016-06-15 18:57:02 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 18:57:16 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 18:57:17 [ INFO ]  #com.rcstest.page.BaseActivity.clickMoreMainbtn(BaseActivity.java:142)# ===>>> Click More Button.
+2016-06-15 18:57:18 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 18:57:18 [ INFO ]  #com.rcstest.page.MoreActivity.clicktoContactsSettingsAty(MoreActivity.java:88)# ===>>> Click Contacts Settings Item.
+2016-06-15 18:57:19 [ INFO ]  #com.rcstest.driver.InitialDriver.checkAty(InitialDriver.java:156)# ===>>> Jump to right page:-->.ui.ContactSyncActivity
+2016-06-15 18:57:24 [ INFO ]  #com.rcstest.page.BaseActivity.clickNo(BaseActivity.java:102)# ===>>> Click No.
+2016-06-15 18:57:24 [ INFO ]  #com.rcstest.page.ContactsSettingsActivity.clicktoBackupContacts(ContactsSettingsActivity.java:60)# ===>>> Cancel Backup Contacts
+2016-06-15 18:57:32 [ ERROR ]  #com.rcstest.driver.InitialDriver.elementisExistId(InitialDriver.java:235)# ===>>> Element is not find.An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7.28 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'PavilionLYX-PC', ip: '169.254.64.115', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_45'
+*** Element info: {Using=id, value=com.starhub.rcsstarhubstagingid/_button}
+Session ID: 4fa8a99e-51cc-4039-a283-6d9ffad70571
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{platform=LINUX, javascriptEnabled=true, appActivity=.login.LoginSlapshActivity, browserName=Android, networkConnectionEnabled=true, udid=93e2da8b, desired={platformVersion=5.0.1, platformName=Android, deviceName=Test Device, appActivity=.login.LoginSlapshActivity, udid=93e2da8b, appPackage=com.starhub.rcsstarhubstaging}, locationContextEnabled=false, appPackage=com.starhub.rcsstarhubstaging, platformVersion=5.0.1, databaseEnabled=false, deviceName=93e2da8b, platformName=Android, webStorageEnabled=false, warnings={}, takesScreenshot=true}]
+2016-06-15 18:57:32 [ INFO ]  #com.rcstest.testcase.activitytestcase.TestContactsSettingsActivity.testContactsSettingsActivity(TestContactsSettingsActivity.java:36)# ===>>> Boolean bb is:false
+2016-06-15 18:57:33 [ INFO ]  #com.rcstest.driver.InitialDriver.takeTakesScreenshot(InitialDriver.java:187)# ===>>> Take screenshot success.
+2016-06-15 18:57:33 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 18:57:36 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:110)# ===>>> ==========Close and kill test app.==========
+2016-06-15 18:57:36 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:119)# ===>>> ==========Close to home..==========
+2016-06-15 18:57:48 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 18:58:13 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:45)# ===>>> ==========Start to Launch App.==========
+2016-06-15 18:58:29 [ INFO ]  #com.rcstest.driver.InitialDriver.launchApp(InitialDriver.java:83)# ===>>> Sleep 7 seconds.
+2016-06-15 18:58:29 [ INFO ]  #com.rcstest.page.ChatsActivity.clicktoAddConversation(ChatsActivity.java:76)# ===>>> Click to select one.
+2016-06-15 18:58:34 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 18:58:34 [ INFO ]  #com.rcstest.page.SelectContactActivityExTest.clickMessagelist(SelectContactActivityExTest.java:40)# ===>>> Click Message+ list bar.
+2016-06-15 18:58:35 [ INFO ]  #com.rcstest.page.BaseActivity.clickElement(BaseActivity.java:149)# ===>>> Click Element.
+2016-06-15 18:58:35 [ INFO ]  #com.rcstest.page.SelectContactActivityExTest.clickAlllist(SelectContactActivityExTest.java:45)# ===>>> Click All list bar.
+2016-06-15 18:58:36 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:96)# ===>>> Completely kill current app.
+2016-06-15 18:58:40 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:110)# ===>>> ==========Close and kill test app.==========
+2016-06-15 18:58:41 [ INFO ]  #com.rcstest.driver.InitialDriver.killApp(InitialDriver.java:119)# ===>>> ==========Close to home..==========
